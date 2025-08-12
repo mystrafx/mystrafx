@@ -2,10 +2,6 @@
 
 ###
 
-<p align="left">Yep I really liked the car brand, now I have no ideas for an other name</p>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
