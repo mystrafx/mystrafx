@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-Mystrafx&label=Profile%20views&color=0e75b6&style=flat" alt="dev-Mystrafx" /> </p>
 
-- 🔭 I’m currently working on [Fusion Software Solutions](https://fusiondev.cloud)
+- 🔭 I’m currently working on [Cloud Bots](https://discord.gg/cloud-bots)
 
 - 🌱 I’m currently learning **C# / .NET**
 
@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/justMystrafx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="justMystrafx" height="30" width="40" /></a>
-<a href="https://discord.gg/fusiondev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fusiondev" height="30" width="40" /></a>
+<a href="https://twitter.com/none" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="justMystrafx" height="30" width="40" /></a>
+<a href="https://discord.gg/cloud-bots" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fusiondev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Tech Stack:</h3>
