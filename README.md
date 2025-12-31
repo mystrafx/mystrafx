@@ -21,4 +21,4 @@
 
 </p>
 
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mystrafx7&theme=github_dark" alt="Mystrafx7" />
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mystrafx&theme=github_dark" alt="Mystrafx" />
