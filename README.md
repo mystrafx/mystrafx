@@ -21,7 +21,7 @@ With over **5 years of experience**, I enjoy turning complex problems into effic
 
 ### About Me
 
-* **5+ years experience** in software development
+- **5+ years experience** in software development
 - Strong focus on **fullstack development** (frontend ↔ backend)
 - Building **Discord bots** and scalable backend systems
 - Passion for **clean code, performance, and system design**
