@@ -2,7 +2,6 @@
 
 I build across frontend and backend, mainly using TypeScript and JavaScript.
 I like experimenting, breaking things, and figuring out how systems really work.
-For me, coding is not just work — it’s something I genuinely enjoy.
 
 ---
 
